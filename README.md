@@ -11,4 +11,7 @@ A website that offers fitness training services
 https://jecoc0.github.io/run-buddy/
 
 ## Contribution
-Made with love by Jessica Groves
+Made with ❤️ by Jessica Groves
+
+### ©️2019 Run Buddy, Inc 
+
