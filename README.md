@@ -14,4 +14,3 @@ https://jecoc0.github.io/run-buddy/
 Made with ❤️ by Jessica Groves
 
 ### ©️2019 Run Buddy, Inc 
-
